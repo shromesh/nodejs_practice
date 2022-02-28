@@ -12,4 +12,7 @@
  npm init
  npm install express --save
  touch app.js
+ 
+ # start server
+ node app.js
  ```
