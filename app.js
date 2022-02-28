@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const port = 3000
 
-// use json
+// req.bodyとかreq_body.nameとかを使えるようにするやつ（たぶん）
 app.use(express.json())
 
 app.get('/booklog', (req, res) => {
