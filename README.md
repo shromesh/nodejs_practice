@@ -9,4 +9,5 @@
  cd nodejs_practice
  npm init
  npm install express --save
+ touch app.js
  ```
