@@ -5,6 +5,7 @@
 - 参考：https://youtu.be/6_zIN-bByB4
 
 ```
+# initial commands
  cd nodejs_practice
  npm init
  npm install express --save
