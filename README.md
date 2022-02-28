@@ -2,7 +2,9 @@
 
 ## node.jsでapiを作る練習
 
-- 参考：https://youtu.be/6_zIN-bByB4
+- 参考：
+ - https://youtu.be/6_zIN-bByB4
+ - https://qiita.com/nkjm/items/723990c518acfee6e473
 
 ```
 # initial commands
