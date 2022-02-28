@@ -1,8 +1,8 @@
 # node.jsで最小限のapiを作った備忘録
 
 - 参考：
-    - https://youtu.be/6_zIN-bByB4
-    - https://qiita.com/nkjm/items/723990c518acfee6e473
+    - 「小学生でもわかるWebAPI入門。ゼロからWebAPIを作ってみよう」https://youtu.be/6_zIN-bByB4
+    - 「ゼロからはじめるExpress + Node.jsを使ったアプリ開発」https://qiita.com/nkjm/items/723990c518acfee6e473
 
 ```
  # initial commands
@@ -18,4 +18,5 @@
  curl -X GET http://localhost:3000/booklog
  # POST
  curl -X POST -H "Content-Type: application/json" -d '{"name":"zerotuku", "text":"omoro"}' http://localhost:3000/booklog 
+
  ```
