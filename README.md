@@ -13,4 +13,9 @@
  
  # start server
  node app.js
+ 
+ # GET
+ curl -X GET http://localhost:3000/booklog
+ # POST
+ curl -X POST -H "Content-Type: application/json" -d '{"name":"zerotuku", "text":"omoro"}'  http://localhost:3000/booklog 
  ```
