@@ -1,4 +1,4 @@
-# node.jsで最小限のapiを作った備忘録
+# node.jsで最小限のapi
 
 - 参考：
     - 「小学生でもわかるWebAPI入門。ゼロからWebAPIを作ってみよう」https://youtu.be/6_zIN-bByB4
